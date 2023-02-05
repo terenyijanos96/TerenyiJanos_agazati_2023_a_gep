@@ -48,4 +48,4 @@ def legkisebb_azonositoju_asztali_gep(lista):
         sz_id = "NULL"
         sz_hely = "NULL"
 
-    print(f"III/D:\n\tA legkisebb asztali gép azonosítója: {lista[i].id}, helye: {lista[i].hely}.")
+    print(f"III/D:\n\tA legkisebb asztali gép azonosítója: {sz_id}, helye: {sz_hely}.")
