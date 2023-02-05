@@ -1,0 +1,3 @@
+import minosites
+
+minosites.adatbekeres()
