@@ -37,7 +37,7 @@ def atlag(lista):
 
 def legkisebb_azonositoju_asztali_gep(lista):
     i = 0
-    while lista[i].tipus != "asztali" and i < len(lista):
+    while i < len(lista) and lista[i].tipus != "asztali":
         i+=1
 
 
